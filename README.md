@@ -1,5 +1,7 @@
 # mon0meters
-Rainmeter skin suite inspired by NZXT CAM, containing CPU, GPU, RAM, and Network skins, intended to be displayed on a 5in 1280x720 (720p) dedicated sensor panel.
+Rainmeter skin suite inspired by NZXT CAM. Contains CPU, GPU, RAM, and Network skins. 
+
+Intended to be displayed on a 5in 1280x720 (720p) dedicated sensor panel.
 
 ![image](https://user-images.githubusercontent.com/12420010/227833225-288097d0-6cd6-44d4-aa05-dd8b5edc7f94.png)
 
@@ -9,8 +11,11 @@ Rainmeter skin suite inspired by NZXT CAM, containing CPU, GPU, RAM, and Network
 
 ============================================================================================
 
-Requires CoreTemp, HWiNFO, and MSIAfterburner (including MSIAfterburner.dll Rainmeter plugin)
+Requirements: 
+* [CoreTemp](https://www.alcpu.com/CoreTemp/)
+* [HWiNFO](https://www.hwinfo.com/download/)
+* [MSIAfterburner](https://www.msi.com/Landing/afterburner/graphics-cards) (including [MSIAfterburner.dll](https://forums.guru3d.com/threads/rainmeter-plugin-for-msi-afterburner.319558/) Rainmeter plugin)
 
-Updated for the new HWiNFO 7 Gadget and Registry method, see this post: https://docs.rainmeter.net/tips/hwinfo/
+Updated for the new HWiNFO 7 Gadget and Registry method, see the documentation here: [Using HWiNFO with Rainmeter](https://docs.rainmeter.net/tips/hwinfo/)
 
 You will most likely have to edit the skin to reflect the correct HWiNFO sensor(s) index(es) in your system as per the above Rainmeter doc. The skin is written with the assumption that "CPU Clocks" is at Index1, but your system may be different, depending on how you configure the HWiNFO Gagdet settings.
