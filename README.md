@@ -3,6 +3,14 @@ Rainmeter skin suite inspired by NZXT CAM, for use on a dedicated sensor panel.
 
 CPU, GPU, RAM, and Network Rainmeter skins, meant to be displayed on a 5in 1280x720 (720p) dedicated sensor panel.
 
+![image](https://user-images.githubusercontent.com/12420010/227833225-288097d0-6cd6-44d4-aa05-dd8b5edc7f94.png)
+
+![image](https://user-images.githubusercontent.com/12420010/227833294-d5ee0d8a-6db7-46ac-bfb8-bc341a0151aa.png)
+
+![image](https://user-images.githubusercontent.com/12420010/227833807-bba9e518-adec-4106-8552-b3b9bc83195c.png)
+
+============================================================================================
+
 Requires CoreTemp, HWiNFO, and MSIAfterburner (including MSIAfterburner.dll Rainmeter plugin)
 
 Updated for the new HWiNFO 7 Gadget and Registry method, see this post: https://docs.rainmeter.net/tips/hwinfo/
