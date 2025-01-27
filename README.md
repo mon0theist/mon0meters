@@ -12,7 +12,7 @@ Intended to be displayed on a 5in 1280x720 (720p) dedicated sensor panel.
 ## Requirements: 
 * [CoreTemp](https://www.alcpu.com/CoreTemp/)
 * [HWiNFO](https://www.hwinfo.com/download/)
-* [MSIAfterburner](https://www.msi.com/Landing/afterburner/graphics-cards) (including [MSIAfterburner.dll](https://forums.guru3d.com/threads/rainmeter-plugin-for-msi-afterburner.319558/) Rainmeter plugin)
+* [MSIAfterburner](https://www.msi.com/Landing/afterburner/graphics-cards) (including [MSIAfterburner.dll](https://forum.rainmeter.net/download/file.php?id=33235) Rainmeter plugin)
 
 Updated for the new HWiNFO 7 Gadget and Registry method, see the documentation here: [Using HWiNFO with Rainmeter](https://docs.rainmeter.net/tips/hwinfo/)
 
